@@ -2,7 +2,6 @@
 
 Привет, мир! Это главная страница hhaliloff 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
