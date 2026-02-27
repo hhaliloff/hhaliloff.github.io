@@ -1,16 +1,16 @@
-# Welcome to MkDocs
+# ХАЛИЛОВ ЧИНГИЗ
 
-Привет, мир! Это главная страница hhaliloff 
+Hello, world! Это сайт-порфтолио Чингиза Халилова. Здесь вы найдете информацию обо мне, моих проектах и достижениях.
 
 
-## Commands
+## НАВИГАЦИЯ
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## КОНТАКТЫ
 
     mkdocs.yml    # The configuration file.
     docs/

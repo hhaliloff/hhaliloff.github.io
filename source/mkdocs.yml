@@ -1,2 +1,11 @@
-site_name: Сайт-портфолио hhaliloff
+site_name: hhaliloff
 theme: simple-blog
+
+nav:
+    - ГЛАВНАЯ: index.md
+    - О СЕБЕ: about_me.md
+    - ПРОЕКТЫ:
+        - ОБЗОР: projects/overview.md
+        - Проект 1: projects/project9.md
+        - Проект 2: projects/project10.md
+        - Проект 3: projects/project11.md
