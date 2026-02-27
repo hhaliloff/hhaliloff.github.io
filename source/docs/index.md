@@ -10,5 +10,5 @@ Hello, world! Это сайт-порфтолио Чингиза Халилова
 
 ## КОНТАКТЫ
 
-    email: cingizhalilov74@gmail.com    
-    github: https://github.com/hhaliloff
+email: cingizhalilov74@gmail.com    
+github: [github.com/hhaliloff](https://github.com/hhaliloff)
