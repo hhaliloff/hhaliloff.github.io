@@ -6,6 +6,6 @@ nav:
     - О СЕБЕ: about_me.md
     - ПРОЕКТЫ:
         - ОБЗОР: overview.md
-        - Проект 1: currency-tracker.md
-        - Проект 2: notes.md
-        - Проект 3: optimization.md
+        - Валюты: currency-tracker.md
+        - Заметки: notes.md
+        - Оптимизация: optimization.md
