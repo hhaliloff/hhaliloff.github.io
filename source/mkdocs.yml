@@ -1,3 +1,2 @@
 site_name: Сайт-портфолио hhaliloff
-theme:
-  name: dracula
+theme: simple-blog
