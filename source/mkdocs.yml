@@ -5,7 +5,7 @@ nav:
     - ГЛАВНАЯ: index.md
     - О СЕБЕ: about_me.md
     - ПРОЕКТЫ:
-        - ОБЗОР: projects/overview.md
-        - Проект 1: projects/project9.md
-        - Проект 2: projects/project10.md
-        - Проект 3: projects/project11.md
+        - ОБЗОР: overview.md
+        - Проект 1: currency-tracker.md
+        - Проект 2: notes.md
+        - Проект 3: optimization.md

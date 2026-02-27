@@ -29,4 +29,4 @@
 
 [GITHUB](https://github.com/hhaliloff/Python_Laboratory_10)
 
-[<- НА ГЛАВНУЮ](../index.md)
+[<- ОБРАТНО](overview.md)
