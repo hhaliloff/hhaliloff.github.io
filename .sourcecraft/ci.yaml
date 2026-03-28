@@ -1,0 +1,28 @@
+on:
+  push:
+    workflows: build-site
+    filter:
+      branches: main
+
+workflows:
+  build-site:
+    tasks:
+      - name: build-site
+        cubes:
+          - name: build-site
+            image: python:3.12-slim
+            script:
+              - python -m pip install --upgrade pip
+              - pip install mkdocs mkdocs-simple-blog
+              - cd source
+              - mkdocs build --clean --strict
+              - cd ..
+              - rm -rf site
+              - mkdir -p site
+              - cp -R source/site/. site/
+          - name: publish-site
+            script:
+              - git checkout -b release
+              - git add site
+              - "git commit -m 'deploy: publish site'"
+              - git push origin release -f
