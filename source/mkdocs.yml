@@ -1,0 +1,13 @@
+site_name: hhaliloff
+theme: simple-blog
+
+nav:
+    - ГЛАВНАЯ: index.md
+    - О СЕБЕ: about_me.md
+    - ПРОЕКТЫ:
+        - ОБЗОР: overview.md
+        - Валюты: currency-tracker.md
+        - Заметки: notes.md
+        - Оптимизация: optimization.md
+        - Вычисления: calculations.md
+
