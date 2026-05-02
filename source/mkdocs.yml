@@ -10,4 +10,5 @@ nav:
         - Заметки: notes.md
         - Оптимизация: optimization.md
         - Вычисления: calculations.md
+        - Кредиты: credit_prediction.md
 
