@@ -12,4 +12,5 @@ nav:
         - Вычисления: calculations.md
         - Кредиты: credit_prediction.md
         - Стоимость недвижимости: price_prediction.md
+        - Анализ твитов: language.md
 
